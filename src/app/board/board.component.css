@@ -1,0 +1,8 @@
+button{
+    width: 100%;
+    height: 100%;
+    font-size: 60px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border: 1px solid #000; /* Ensure border is defined */
+}
